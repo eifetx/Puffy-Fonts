@@ -1,4 +1,4 @@
-# Puffy
+# Puffy Fonts
 A bubble display font is a type of font that mimics the look of bubbles or round circles to create an eye-catching and playful display. The font consists of letters, numbers, and symbols that are designed to appear as if they are inflated or made up of multiple small bubbles.
 ![Puffy 1](https://user-images.githubusercontent.com/123919967/230901380-750d9a01-bc8b-4b03-9dc8-5c9952a51cd7.png)
 ## Language Support
